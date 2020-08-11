@@ -5,3 +5,7 @@ MyStudyLink was selected as the product base of my UX research because the webap
 
 Also I have had to guide friends through the webapp to apply for student loans and student allowances. If the product requires previous experience to easily use the web app, MyStudyLink could improve in user-accessibility.   
 
+# MyStudyLink User Survey
+https://forms.gle/xVJt8fBu9A4A3nhM6
+
+This survey was used as a tool for my UX research, the intend is to gather data from users of the app. (Survey is subject to change)
