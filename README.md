@@ -8,4 +8,8 @@ Also I have had to guide friends through the webapp to apply for student loans a
 # MyStudyLink User Survey
 https://forms.gle/xVJt8fBu9A4A3nhM6
 
-This survey was used as a tool for my UX research, the intend is to gather data from users of the app. (Survey is subject to change)
+This survey was used as a tool for my UX research, the intend is to gather data from users of the app.
+
+I requested people who have experience using the MyStudyLink site to fill out this survey to gather relevant data on aspects of MyStudyLink that cause issue with users.
+The structure of this survey is designed to focus on the most recent experience the user has had using the software and issues related to that experience to isolate issues users
+experience, leading to more investigation, research and attempts at a solution to the existing issue the user is experiencing.  
